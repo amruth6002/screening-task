@@ -1,0 +1,33 @@
+{
+  "foa_id": "NSF 26-506",
+  "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
+  "agency": "National Science Foundation (NSF)",
+  "open_date": "2026-02-19",
+  "close_date": "",
+  "eligibility": "Who May Submit Proposals: Proposals may only be submitted by the following: Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus. Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities. For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation. State and Local Governments Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131. Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from other Federal Agencies and FFRDCs, including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility. Who May Serve as PI: For Institutions of Higher Education (IHEs): By the submission deadline, any PI, co-PI, or other Senior/Key Personnel must hold either: a tenured or tenure-track position, or a primary, full-time, paid appointment in a research or teaching position, or a staff lead",
+  "description": "The Pathways to Enable Secure Open-Source Ecosystems (PESOSE) program, managed by the Directorate for Technology, Innovation and Partnerships, creates a new pathway to turn research into innovation by supporting strong, sustainable, and secure open-source ecosystems (OSEs). These ecosystems are built around existing open-source products, tools, and artifacts that already show promise. The goal is to transform research results into widely used technologies and services that benefit society. Open-source ecosystems depend on distributed development, where contributors from many organizations work together to improve and maintain the product. When successful, these ecosystems grow active communities of developers and users, attract resources, and help innovations make a lasting impact. PESOSE has three tracks: Track 1: Scoping and planning. This track helps organizations that need experience building developer and user communities. This includes planning and training in governance, legal issues, licensing, fundraising, and administration. Track 2: Establishing and expanding. This track focuses on building or improving governance for robust, promising OSEs that meet emerging societal or national needs. Managing organizations coordinate developers, support users, and provide training. They also ensure security and reliability, maintain governance, and sustain long-term viability. Successful ecosystems share common traits: a clear vision, documented demand for products, flexible deployment, active developer communities, collaborative growth, and engaged users. Track 3: Improving safety, security, and privacy. This track addresses vulnerabilities in open-source products and infrastructure. Risks can be technical, such as code flaws. Risks can also be socio-technical such as supply chain weaknesses, insider threats or poisoned machine learning models. Projects will identify vulnerabilities, assess dependencies, and review past incidents. They will also create plans for preve",
+  "award_floor": "$300,000",
+  "award_ceiling": "$1,500,000",
+  "source_url": "https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation",
+  "tags": {
+    "research_domains": [
+      "artificial intelligence",
+      "education",
+      "open source & software"
+    ],
+    "methods_approaches": [
+      "machine learning"
+    ],
+    "populations": [
+      "general public",
+      "industry & government",
+      "minority & underrepresented",
+      "small businesses & startups"
+    ],
+    "sponsor_themes": [
+      "fundamental research",
+      "science & engineering",
+      "stem education"
+    ]
+  }
+}
